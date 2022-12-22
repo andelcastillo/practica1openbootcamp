@@ -1,1 +1,1 @@
-console.log("Esta es la primera practica con Node en el mejor curso de programacion")
+console.log("Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo")
