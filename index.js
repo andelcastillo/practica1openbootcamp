@@ -1,0 +1,1 @@
+console.log("Esta es la primera practica con Node en el mejor curso de programacion")
